@@ -1,0 +1,270 @@
+Sep 20 2022 21:51:23
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Sep 20 2022 21:51:28
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:51:28
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:51:33
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:51:36
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:51:37
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Sep 20 2022 21:51:37
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:51:44
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:51:45
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:51:51
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:51:53
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:51:54
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:51:59
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:04
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:06
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:07
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:11
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:13
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:16
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Sep 20 2022 21:52:18
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:19
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:24
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:31
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:32
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:39
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:46
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:47
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:52:55
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:00
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:02
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:11
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:16
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:19
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Sep 20 2022 21:53:27
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:29
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:34
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:40
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:44
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:48
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:56
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:53:58
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:02
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:10
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:12
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:17
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:26
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:27
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Sep 20 2022 21:54:32
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:39
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:41
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:48
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:55
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:54:57
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:01
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:09
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:11
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:15
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:23
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:25
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Sep 20 2022 21:55:31
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:40
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:40
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:46
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:53
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:55:55
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:01
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:09
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:11
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:15
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:22
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:26
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Sep 20 2022 21:56:28
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:35
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:40
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:41
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:49
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:51
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:56:57
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:03
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:06
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:10
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:15
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:19
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Sep 20 2022 21:57:21
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:24
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:25
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:28
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:31
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:32
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+
+Sep 20 2022 21:57:38
+{"type":8192,"message":"Return type of MyCLabs\\Enum\\Enum::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\DESARROLLO-WEB\\wp-content\\plugins\\woocommerce-payments\\vendor\\myclabs\\php-enum\\src\\Enum.php","line":246}
+

@@ -1,0 +1,32 @@
+# Translation of Plugins - Algori Video and Image Slider - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Algori Video and Image Slider - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-10 08:02:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Algori Video and Image Slider - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "http://kevinbazira.com/"
+msgstr "https://kevinbazira.com/"
+
+#. Author of the plugin
+msgid "Kevin Bazira"
+msgstr "Kevin Bazira"
+
+#. Description of the plugin
+msgid "<strong>Algori Image and Video Slider</strong> is a Gutenberg Block Plugin that enables you easily add image and video sliders to your website. Capture your site visitors' attention with compelling video and image slideshows. <strong>This will boost user engagement and increase revenue for your site</strong>."
+msgstr "<strong>Algori Image and Video Slider</strong> es un plugin de bloques de Gutenberg que te permite añadir fácilmente carruseles de imágenes y vídeos a tu web. Capta la atención de los visitantes de tu sitio con atractivas presentaciones de diapositivas de imágenes y videos. <strong>Esto impulsará la participación de los usuarios y aumentará los ingresos de tu sitio</strong>."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/kevinbazira/algori-image-and-video-slider-lite/"
+msgstr "https://github.com/kevinbazira/algori-image-and-video-slider-lite/"
+
+#. Plugin Name of the plugin
+msgid "Algori Image & Video Slider Lite"
+msgstr "Algori Image & Video Slider Lite"

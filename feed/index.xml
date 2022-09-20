@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Éxito</title>
+	<atom:link href="https://desarrollo-web.tk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://desarrollo-web.tk/</link>
+	<description>AA3 Wordpress</description>
+	<lastBuildDate>Tue, 20 Sep 2022 21:32:07 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>INICIO</title>
+		<link>https://desarrollo-web.tk/2022/08/24/inicio/</link>
+		
+		<dc:creator><![CDATA[maria_vargas]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 02:15:34 +0000</pubDate>
+				<category><![CDATA[Tecnología]]></category>
+		<guid isPermaLink="false">https://desarrollo-web.tk/?p=1</guid>
+
+					<description><![CDATA[Compra por categorías Tecnología Lo último en nuestro centro de tecnología Mercado Crea una lista con todo para tu mercado&#8230;]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-1 wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-algori-image-video-slider-block-algori-image-video-slider dots-style-1-off-slide arrows-style-1-off-slide" data-slick="{&quot;dots&quot;:true,&quot;arrows&quot;:true,&quot;autoplay&quot;:false,&quot;pauseOnFocus&quot;:false,&quot;rtl&quot;:false,&quot;vertical&quot;:false,&quot;fade&quot;:false,&quot;lazyLoad&quot;:false,&quot;centerMode&quot;:false,&quot;infinite&quot;:true,&quot;adaptiveHeight&quot;:true,&quot;speed&quot;:500,&quot;autoplaySpeed&quot;:3000,&quot;slidesToShow&quot;:1,&quot;slidesToScroll&quot;:1,&quot;rows&quot;:1,&quot;slidesPerRow&quot;:1}"><div><figure class="algori-image-video-slider-slide-container"><img src="https://desarrollo-web.tk/wp-content/uploads/2022/09/banner-mercado.jpg" alt=""/></figure></div><div><figure class="algori-image-video-slider-slide-container"><img src="https://desarrollo-web.tk/wp-content/uploads/2022/08/banner-telefonia.jpg" alt=""/></figure></div><div><figure class="algori-image-video-slider-slide-container"><img src="https://desarrollo-web.tk/wp-content/uploads/2022/08/banner-tarjeta.jpg" alt=""/></figure></div></div>
+</div></div>
+
+
+
+<p class="has-text-align-center" style="font-size:50px"><strong>Compra por categorías</strong></p>
+
+
+
+<div class="wp-container-10 wp-block-columns">
+<div class="wp-container-9 wp-block-column is-vertically-aligned-center" style="flex-basis:100%">
+<div class="wp-container-8 wp-block-columns">
+<div class="wp-container-3 wp-block-column is-vertically-aligned-top"><div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" width="158" height="150" src="https://desarrollo-web.tk/wp-content/uploads/2022/09/tecnologia.png" alt="" class="wp-image-77"/></figure></div>
+
+
+<p class="has-text-align-center"><strong>Tecnología</strong></p>
+
+
+
+<p class="has-text-align-center">Lo último en nuestro centro de tecnología</p>
+
+
+
+<div class="wp-container-2 is-content-justification-center wp-block-buttons"></div>
+</div>
+
+
+
+<div class="wp-container-5 wp-block-column"><div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" width="158" height="150" src="https://desarrollo-web.tk/wp-content/uploads/2022/09/mercado.png" alt="" class="wp-image-78"/></figure></div>
+
+
+<p class="has-text-align-center"><strong>Mercado</strong></p>
+
+
+
+<p class="has-text-align-center">Crea una lista con todo para tu mercado</p>
+
+
+
+<div class="wp-container-4 is-content-justification-center wp-block-buttons"></div>
+</div>
+
+
+
+<div class="wp-container-7 wp-block-column"><div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" width="158" height="150" src="https://desarrollo-web.tk/wp-content/uploads/2022/09/moda-1.png" alt="" class="wp-image-80"/></figure></div>
+
+
+<p class="has-text-align-center"><strong>Moda</strong></p>
+
+
+
+<p class="has-text-align-center">Conoce las colecciones que tenemos para ti</p>
+
+
+
+<div class="wp-container-6 is-content-justification-center wp-block-buttons"></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="¡Haz rendir tu prima en la Megaprima Éxito! &#x1f389;" width="1040" height="585" src="https://www.youtube.com/embed/QQ82b664mpY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
